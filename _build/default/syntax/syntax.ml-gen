@@ -1,0 +1,14 @@
+(** @canonical Syntax.Ast *)
+module Ast = Syntax__Ast
+
+
+(** @canonical Syntax.Lexer *)
+module Lexer = Syntax__Lexer
+
+
+(** @canonical Syntax.Parser *)
+module Parser = Syntax__Parser
+
+
+(** @canonical Syntax.Sourcepos *)
+module Sourcepos = Syntax__Sourcepos

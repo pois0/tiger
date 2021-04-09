@@ -1,0 +1,202 @@
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Runner: processes
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Chooser: simple
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Configuration suite_name = "Test"
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Configuration cache_filename = "/home/pois/Programs/tiger/_build/default/test/oUnit-$(suite_name).cache"
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Configuration run_gc_full_major = "true"
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Configuration display = "true"
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Configuration results_style_1_X = "false"
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Configuration testdata_dir = "none"
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Configuration health_check_interval = "1."
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Configuration verbose = "false"
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Configuration chooser = "simple"
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Configuration output_html_dir = "none"
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Configuration processes_kill_period = "5."
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Configuration runner = "processes"
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Configuration shards = "12"
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Configuration processes_grace_period = "5."
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Configuration log_encoding = "utf-8"
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Configuration output_junit_file = "none"
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Configuration ci = "false"
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Configuration output_file = "/home/pois/Programs/tiger/_build/default/test/oUnit-$(suite_name)-$(shard_id).log"
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Using 12 workers maximum.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Starting worker number pois-gentoo#01.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#01 started.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Starting worker number pois-gentoo#02.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#02 started.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Starting worker number pois-gentoo#03.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#03 started.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Starting worker number pois-gentoo#04.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#04 started.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Starting worker number pois-gentoo#05.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#05 started.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Starting worker number pois-gentoo#06.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#06 started.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Starting worker number pois-gentoo#07.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#07 started.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Starting worker number pois-gentoo#08.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#08 started.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Starting worker number pois-gentoo#09.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#09 started.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Starting worker number pois-gentoo#10.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#10 started.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Starting worker number pois-gentoo#11.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#11 started.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Starting worker number pois-gentoo#12.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#12 started.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: 12 tests running: Test:11:test_record_exp, Test:10:test_neg, Test:9:test_subscript_var, Test:8:test_field_var, Test:7:test_simple_var, Test:6:test_string, Test:5:test_div, Test:4:test_mul, Test:3:test_minus, Test:2:test_plus, Test:1:test_int, Test:0:test_nil.
+2021-04-10T22:36:18+00:00 pois-gentoo#01 I: Start test Test:0:test_nil.
+2021-04-10T22:36:18+00:00 pois-gentoo#02 I: Start test Test:1:test_int.
+2021-04-10T22:36:18+00:00 pois-gentoo#03 I: Start test Test:2:test_plus.
+2021-04-10T22:36:18+00:00 pois-gentoo#04 I: Start test Test:3:test_minus.
+2021-04-10T22:36:18+00:00 pois-gentoo#05 I: Start test Test:4:test_mul.
+2021-04-10T22:36:18+00:00 pois-gentoo#06 I: Start test Test:5:test_div.
+2021-04-10T22:36:18+00:00 pois-gentoo#07 I: Start test Test:6:test_string.
+2021-04-10T22:36:18+00:00 pois-gentoo#08 I: Start test Test:7:test_simple_var.
+2021-04-10T22:36:18+00:00 pois-gentoo#09 I: Start test Test:8:test_field_var.
+2021-04-10T22:36:18+00:00 pois-gentoo#10 I: Start test Test:9:test_subscript_var.
+2021-04-10T22:36:18+00:00 pois-gentoo#11 I: Start test Test:10:test_neg.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: 12 tests running: Test:11:test_record_exp, Test:10:test_neg, Test:9:test_subscript_var, Test:8:test_field_var, Test:7:test_simple_var, Test:6:test_string, Test:5:test_div, Test:4:test_mul, Test:3:test_minus, Test:2:test_plus, Test:1:test_int, Test:0:test_nil.
+2021-04-10T22:36:18+00:00 pois-gentoo#01 I: Test Test:0:test_nil is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#02 I: Test Test:1:test_int is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#03 I: Test Test:2:test_plus is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#04 I: Test Test:3:test_minus is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#05 I: Test Test:4:test_mul is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#06 I: Test Test:5:test_div is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#07 I: Test Test:6:test_string is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: 12 tests running: Test:11:test_record_exp, Test:10:test_neg, Test:9:test_subscript_var, Test:8:test_field_var, Test:7:test_simple_var, Test:6:test_string, Test:5:test_div, Test:4:test_mul, Test:3:test_minus, Test:2:test_plus, Test:1:test_int, Test:0:test_nil.
+2021-04-10T22:36:18+00:00 pois-gentoo#01 I: End test Test:0:test_nil.
+2021-04-10T22:36:18+00:00 pois-gentoo#02 I: End test Test:1:test_int.
+2021-04-10T22:36:18+00:00 pois-gentoo#03 I: End test Test:2:test_plus.
+2021-04-10T22:36:18+00:00 pois-gentoo#04 I: End test Test:3:test_minus.
+2021-04-10T22:36:18+00:00 pois-gentoo#05 I: End test Test:4:test_mul.
+2021-04-10T22:36:18+00:00 pois-gentoo#06 I: End test Test:5:test_div.
+2021-04-10T22:36:18+00:00 pois-gentoo#07 I: End test Test:6:test_string.
+2021-04-10T22:36:18+00:00 pois-gentoo#12 I: Start test Test:11:test_record_exp.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: 12 tests running: Test:11:test_record_exp, Test:10:test_neg, Test:9:test_subscript_var, Test:8:test_field_var, Test:7:test_simple_var, Test:6:test_string, Test:5:test_div, Test:4:test_mul, Test:3:test_minus, Test:2:test_plus, Test:1:test_int, Test:0:test_nil.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: 12 tests running: Test:18:test_array, Test:17:test_while_break, Test:16:test_while, Test:15:test_for, Test:14:test_if_then_else, Test:13:test_if_then, Test:12:test_seq, Test:11:test_record_exp, Test:10:test_neg, Test:9:test_subscript_var, Test:8:test_field_var, Test:7:test_simple_var.
+2021-04-10T22:36:18+00:00 pois-gentoo#08 I: Test Test:7:test_simple_var is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#07 I: Start test Test:12:test_seq.
+2021-04-10T22:36:18+00:00 pois-gentoo#06 I: Start test Test:13:test_if_then.
+2021-04-10T22:36:18+00:00 pois-gentoo#05 I: Start test Test:14:test_if_then_else.
+2021-04-10T22:36:18+00:00 pois-gentoo#04 I: Start test Test:15:test_for.
+2021-04-10T22:36:18+00:00 pois-gentoo#03 I: Start test Test:16:test_while.
+2021-04-10T22:36:18+00:00 pois-gentoo#02 I: Start test Test:17:test_while_break.
+2021-04-10T22:36:18+00:00 pois-gentoo#01 I: Start test Test:18:test_array.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: 12 tests running: Test:18:test_array, Test:17:test_while_break, Test:16:test_while, Test:15:test_for, Test:14:test_if_then_else, Test:13:test_if_then, Test:12:test_seq, Test:11:test_record_exp, Test:10:test_neg, Test:9:test_subscript_var, Test:8:test_field_var, Test:7:test_simple_var.
+2021-04-10T22:36:18+00:00 pois-gentoo#08 I: End test Test:7:test_simple_var.
+2021-04-10T22:36:18+00:00 pois-gentoo#09 I: Test Test:8:test_field_var is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: 12 tests running: Test:18:test_array, Test:17:test_while_break, Test:16:test_while, Test:15:test_for, Test:14:test_if_then_else, Test:13:test_if_then, Test:12:test_seq, Test:11:test_record_exp, Test:10:test_neg, Test:9:test_subscript_var, Test:8:test_field_var, Test:7:test_simple_var.
+2021-04-10T22:36:18+00:00 pois-gentoo#09 I: End test Test:8:test_field_var.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Still 12 tests running : Test:19:test_let, Test:18:test_array, Test:17:test_while_break, Test:16:test_while, Test:15:test_for, Test:14:test_if_then_else, Test:13:test_if_then, Test:12:test_seq, Test:11:test_record_exp, Test:10:test_neg, Test:9:test_subscript_var, Test:8:test_field_var.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: 12 tests running: Test:19:test_let, Test:18:test_array, Test:17:test_while_break, Test:16:test_while, Test:15:test_for, Test:14:test_if_then_else, Test:13:test_if_then, Test:12:test_seq, Test:11:test_record_exp, Test:10:test_neg, Test:9:test_subscript_var, Test:8:test_field_var.
+2021-04-10T22:36:18+00:00 pois-gentoo#10 I: Test Test:9:test_subscript_var is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#08 I: Start test Test:19:test_let.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Still 11 tests running : Test:19:test_let, Test:18:test_array, Test:17:test_while_break, Test:16:test_while, Test:15:test_for, Test:14:test_if_then_else, Test:13:test_if_then, Test:12:test_seq, Test:11:test_record_exp, Test:10:test_neg, Test:9:test_subscript_var.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: 11 tests running: Test:19:test_let, Test:18:test_array, Test:17:test_while_break, Test:16:test_while, Test:15:test_for, Test:14:test_if_then_else, Test:13:test_if_then, Test:12:test_seq, Test:11:test_record_exp, Test:10:test_neg, Test:9:test_subscript_var.
+2021-04-10T22:36:18+00:00 pois-gentoo#10 I: End test Test:9:test_subscript_var.
+2021-04-10T22:36:18+00:00 pois-gentoo#07 I: Test Test:12:test_seq is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#06 I: Test Test:13:test_if_then is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Still 11 tests running : Test:19:test_let, Test:18:test_array, Test:17:test_while_break, Test:16:test_while, Test:15:test_for, Test:14:test_if_then_else, Test:13:test_if_then, Test:12:test_seq, Test:11:test_record_exp, Test:10:test_neg, Test:9:test_subscript_var.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: 11 tests running: Test:19:test_let, Test:18:test_array, Test:17:test_while_break, Test:16:test_while, Test:15:test_for, Test:14:test_if_then_else, Test:13:test_if_then, Test:12:test_seq, Test:11:test_record_exp, Test:10:test_neg, Test:9:test_subscript_var.
+2021-04-10T22:36:18+00:00 pois-gentoo#11 I: Test Test:10:test_neg is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#07 I: End test Test:12:test_seq.
+2021-04-10T22:36:18+00:00 pois-gentoo#06 I: End test Test:13:test_if_then.
+2021-04-10T22:36:18+00:00 pois-gentoo#05 I: Test Test:14:test_if_then_else is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#04 I: Test Test:15:test_for is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#03 I: Test Test:16:test_while is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#02 I: Test Test:17:test_while_break is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#01 I: Test Test:18:test_array is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Still 10 tests running : Test:19:test_let, Test:18:test_array, Test:17:test_while_break, Test:16:test_while, Test:15:test_for, Test:14:test_if_then_else, Test:13:test_if_then, Test:12:test_seq, Test:11:test_record_exp, Test:10:test_neg.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: 10 tests running: Test:19:test_let, Test:18:test_array, Test:17:test_while_break, Test:16:test_while, Test:15:test_for, Test:14:test_if_then_else, Test:13:test_if_then, Test:12:test_seq, Test:11:test_record_exp, Test:10:test_neg.
+2021-04-10T22:36:18+00:00 pois-gentoo#11 I: End test Test:10:test_neg.
+2021-04-10T22:36:18+00:00 pois-gentoo#05 I: End test Test:14:test_if_then_else.
+2021-04-10T22:36:18+00:00 pois-gentoo#04 I: End test Test:15:test_for.
+2021-04-10T22:36:18+00:00 pois-gentoo#03 I: End test Test:16:test_while.
+2021-04-10T22:36:18+00:00 pois-gentoo#02 I: End test Test:17:test_while_break.
+2021-04-10T22:36:18+00:00 pois-gentoo#01 I: End test Test:18:test_array.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Still 8 tests running : Test:19:test_let, Test:18:test_array, Test:17:test_while_break, Test:16:test_while, Test:15:test_for, Test:14:test_if_then_else, Test:11:test_record_exp, Test:10:test_neg.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: 8 tests running: Test:19:test_let, Test:18:test_array, Test:17:test_while_break, Test:16:test_while, Test:15:test_for, Test:14:test_if_then_else, Test:11:test_record_exp, Test:10:test_neg.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Still 2 tests running : Test:19:test_let, Test:11:test_record_exp.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: 2 tests running: Test:19:test_let, Test:11:test_record_exp.
+2021-04-10T22:36:18+00:00 pois-gentoo#12 I: Test Test:11:test_record_exp is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Still 2 tests running : Test:19:test_let, Test:11:test_record_exp.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: 2 tests running: Test:19:test_let, Test:11:test_record_exp.
+2021-04-10T22:36:18+00:00 pois-gentoo#12 I: End test Test:11:test_record_exp.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Still 2 tests running : Test:19:test_let, Test:11:test_record_exp.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: 2 tests running: Test:19:test_let, Test:11:test_record_exp.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Still 1 tests running : Test:19:test_let.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: 1 tests running: Test:19:test_let.
+2021-04-10T22:36:18+00:00 pois-gentoo#08 I: Test Test:19:test_let is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Still 1 tests running : Test:19:test_let.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: 1 tests running: Test:19:test_let.
+2021-04-10T22:36:18+00:00 pois-gentoo#08 I: End test Test:19:test_let.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Still 1 tests running : Test:19:test_let.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: 1 tests running: Test:19:test_let.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: 0 tests running: .
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#09 has ended.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#10 has ended.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#07 has ended.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#06 has ended.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#11 has ended.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#05 has ended.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#04 has ended.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#03 has ended.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#02 has ended.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#01 has ended.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#12 has ended.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Worker pois-gentoo#08 has ended.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Used 12 worker during test execution.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Run 2 tests with shard pois-gentoo#01.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Run 2 tests with shard pois-gentoo#03.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Run 2 tests with shard pois-gentoo#05.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Run 1 tests with shard pois-gentoo#11.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Run 1 tests with shard pois-gentoo#10.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Run 1 tests with shard pois-gentoo#12.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Run 2 tests with shard pois-gentoo#04.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Run 1 tests with shard pois-gentoo#09.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Run 2 tests with shard pois-gentoo#07.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Run 2 tests with shard pois-gentoo#06.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Run 2 tests with shard pois-gentoo#08.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Run 2 tests with shard pois-gentoo#02.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Check health of shard pois-gentoo#01, 7 times.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Check health of shard pois-gentoo#03, 7 times.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Check health of shard pois-gentoo#05, 7 times.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Check health of shard pois-gentoo#11, 7 times.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Check health of shard pois-gentoo#10, 9 times.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Check health of shard pois-gentoo#12, 4 times.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Check health of shard pois-gentoo#04, 7 times.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Check health of shard pois-gentoo#09, 11 times.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Check health of shard pois-gentoo#07, 8 times.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Check health of shard pois-gentoo#06, 8 times.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Check health of shard pois-gentoo#08, 1 times.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Check health of shard pois-gentoo#02, 7 times.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: ==============
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Summary:
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Test Test:19:test_let is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Test Test:11:test_record_exp is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Test Test:18:test_array is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Test Test:17:test_while_break is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Test Test:16:test_while is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Test Test:15:test_for is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Test Test:14:test_if_then_else is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Test Test:10:test_neg is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Test Test:13:test_if_then is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Test Test:12:test_seq is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Test Test:9:test_subscript_var is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Test Test:8:test_field_var is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Test Test:7:test_simple_var is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Test Test:6:test_string is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Test Test:5:test_div is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Test Test:4:test_mul is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Test Test:3:test_minus is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Test Test:2:test_plus is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Test Test:1:test_int is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Test Test:0:test_nil is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Ran: 20 tests in: 0.10 seconds.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Cases: 20.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Tried: 20.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Errors: 0.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Failures: 0.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Skip: 0.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Todo: 0.
+2021-04-10T22:36:18+00:00 pois-gentoo#00 I: Timeout: 0.

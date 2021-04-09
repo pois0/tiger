@@ -1,0 +1,76 @@
+type token =
+    WHILE
+  | VAR
+  | TYPE
+  | TO
+  | THEN
+  | STR of string
+  | SEMICOLON
+  | RPAREN
+  | RBRACKET
+  | RBRACE
+  | PLUS
+  | OR
+  | OF
+  | NIL
+  | NEQ
+  | MUL
+  | MINUS
+  | LT
+  | LPAREN
+  | LET
+  | LEQ
+  | LBRACKET
+  | LBRACE
+  | INT of int
+  | IN
+  | IF
+  | ID of string
+  | GT
+  | GEQ
+  | FUNCTION
+  | FOR
+  | EQ
+  | EOF
+  | END
+  | ELSE
+  | DOT
+  | DO
+  | DIV
+  | COMMA
+  | COLON
+  | BREAK
+  | ASSIGN
+  | ARRAY
+  | AND
+val to_pos : Lexing.position -> Sourcepos.pos
+val wp : 'a -> Lexing.position -> 'a Ast.with_pos
+val menhir_begin_marker : int
+val xv_vardec : Ast.dec
+val xv_var : Ast.var
+val xv_tyfield : Ast.field
+val xv_tydec : Ast.dec
+val xv_ty : Ast.typ
+val xv_separated_nonempty_list_SEMICOLON_expr_ : Ast.exp Ast.with_pos list
+val xv_separated_nonempty_list_COMMA_tyfield_ : Ast.field list
+val xv_separated_nonempty_list_COMMA_rec_elm_ : Ast.record_elem list
+val xv_separated_nonempty_list_COMMA_expr_ : Ast.exp Ast.with_pos list
+val xv_separated_list_SEMICOLON_expr_ : Ast.exp Ast.with_pos list
+val xv_separated_list_COMMA_tyfield_ : Ast.field list
+val xv_separated_list_COMMA_rec_elm_ : Ast.record_elem list
+val xv_separated_list_COMMA_expr_ : Ast.exp Ast.with_pos list
+val xv_rec_elm : Ast.record_elem
+val xv_prog : Ast.exp Ast.with_pos
+val xv_nonempty_list_fundec_ : Ast.fundec list
+val xv_nonempty_list_dec_ : Ast.dec list
+val xv_loption_separated_nonempty_list_SEMICOLON_expr__ :
+  Ast.exp Ast.with_pos list
+val xv_loption_separated_nonempty_list_COMMA_tyfield__ : Ast.field list
+val xv_loption_separated_nonempty_list_COMMA_rec_elm__ : Ast.record_elem list
+val xv_loption_separated_nonempty_list_COMMA_expr__ :
+  Ast.exp Ast.with_pos list
+val xv_fundec : Ast.fundec
+val xv_expr : Ast.exp Ast.with_pos
+val xv_dec : Ast.dec
+val xv_binop : Ast.binop
+val menhir_end_marker : int

@@ -1,0 +1,6 @@
+2021-04-10T22:36:18+00:00 pois-gentoo#06 I: Start test Test:5:test_div.
+2021-04-10T22:36:18+00:00 pois-gentoo#06 I: Test Test:5:test_div is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#06 I: End test Test:5:test_div.
+2021-04-10T22:36:18+00:00 pois-gentoo#06 I: Start test Test:13:test_if_then.
+2021-04-10T22:36:18+00:00 pois-gentoo#06 I: Test Test:13:test_if_then is successful.
+2021-04-10T22:36:18+00:00 pois-gentoo#06 I: End test Test:13:test_if_then.
