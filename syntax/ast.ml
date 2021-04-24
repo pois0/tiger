@@ -39,6 +39,8 @@ and dec =
 
 and fundec = { fun_name: string; params: field list; res_type: string option; body: exp with_pos }
 
+and typedec = { type_name: string }
+
 and typ =
   | NameType of string
   | RecordType of field list

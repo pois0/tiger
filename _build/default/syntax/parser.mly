@@ -122,7 +122,6 @@ ty:
   | ARRAY OF i=ID
     { ArrayType i }
   
-
 tyfield:
   | name=ID COLON ty=ID
     { { fld_name=name; fld_type=ty } }

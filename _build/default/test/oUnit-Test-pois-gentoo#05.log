@@ -1,6 +1,6 @@
-2021-04-10T22:36:18+00:00 pois-gentoo#05 I: Start test Test:4:test_mul.
-2021-04-10T22:36:18+00:00 pois-gentoo#05 I: Test Test:4:test_mul is successful.
-2021-04-10T22:36:18+00:00 pois-gentoo#05 I: End test Test:4:test_mul.
-2021-04-10T22:36:18+00:00 pois-gentoo#05 I: Start test Test:14:test_if_then_else.
-2021-04-10T22:36:18+00:00 pois-gentoo#05 I: Test Test:14:test_if_then_else is successful.
-2021-04-10T22:36:18+00:00 pois-gentoo#05 I: End test Test:14:test_if_then_else.
+2021-04-18T01:42:12+00:00 pois-gentoo#05 I: Start test Test:4:test_mul.
+2021-04-18T01:42:12+00:00 pois-gentoo#05 I: Test Test:4:test_mul is successful.
+2021-04-18T01:42:12+00:00 pois-gentoo#05 I: End test Test:4:test_mul.
+2021-04-18T01:42:12+00:00 pois-gentoo#05 I: Start test Test:14:test_if_then_else.
+2021-04-18T01:42:12+00:00 pois-gentoo#05 I: Test Test:14:test_if_then_else is successful.
+2021-04-18T01:42:12+00:00 pois-gentoo#05 I: End test Test:14:test_if_then_else.

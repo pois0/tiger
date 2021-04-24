@@ -1,6 +1,6 @@
-2021-04-10T22:36:18+00:00 pois-gentoo#07 I: Start test Test:6:test_string.
-2021-04-10T22:36:18+00:00 pois-gentoo#07 I: Test Test:6:test_string is successful.
-2021-04-10T22:36:18+00:00 pois-gentoo#07 I: End test Test:6:test_string.
-2021-04-10T22:36:18+00:00 pois-gentoo#07 I: Start test Test:12:test_seq.
-2021-04-10T22:36:18+00:00 pois-gentoo#07 I: Test Test:12:test_seq is successful.
-2021-04-10T22:36:18+00:00 pois-gentoo#07 I: End test Test:12:test_seq.
+2021-04-18T01:42:12+00:00 pois-gentoo#07 I: Start test Test:6:test_string.
+2021-04-18T01:42:12+00:00 pois-gentoo#07 I: Test Test:6:test_string is successful.
+2021-04-18T01:42:12+00:00 pois-gentoo#07 I: End test Test:6:test_string.
+2021-04-18T01:42:12+00:00 pois-gentoo#07 I: Start test Test:12:test_seq.
+2021-04-18T01:42:12+00:00 pois-gentoo#07 I: Test Test:12:test_seq is successful.
+2021-04-18T01:42:12+00:00 pois-gentoo#07 I: End test Test:12:test_seq.
